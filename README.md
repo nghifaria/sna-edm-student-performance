@@ -6,6 +6,22 @@
 **Document Type:** Working Paper (2026)  
 **Full Paper (PDF):** [Download Working Paper](./Working_Paper_NaufalGhifariAfdhala.pdf)  
 
+### External Project Resources
+* **Kaggle Dataset**: [Open University Learning Analytics Dataset (OULAD)](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad)
+* **Kaggle Notebook**: [EWS Pipeline Execution & Experiments](https://www.kaggle.com/code/nghifari/ews-pipeline-execution-experiments)
+
+### Tech Stack & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-512BD4?style=for-the-badge&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-150458?style=for-the-badge&logo=statsmodels&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle Environment](https://img.shields.io/badge/Kaggle-Training%20Pipeline-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ---
 
 ## Summary
